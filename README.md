@@ -1,3 +1,6 @@
-# yizhan
-121
-# test for git in vscode
+# 健康驿站蹲票
+
+本项目为基于Selenium的自动“蹲”票程序。也就是说，这个是用来捡漏的，而不是早上10点整放票的时候抢票用的哈ʕ •ᴥ•ʔ
+
+# attention
+大家要自己安装相应的库Selenium，ddddocr，jupyter等等。不建议完全没基础的朋友尝试。其中要注意的点我也写在注释里了。
